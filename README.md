@@ -2,6 +2,10 @@
 
 This is an Angular project developed for 6crickets. This README provides instructions on how to set up and run the project locally, as well as how to run tests using the Angular CLI.
 
+## Demo
+
+You can access a video of the working product here https://photos.app.goo.gl/5udmQqCzF8N86rWh9
+
 ## Question asked by 6crickets
 There is an API endpoint called /api/deadline which returns { secondsLeft: number } JSON object containing the number of seconds left to some constant deadline date (deadline date never changes). Write an Angular component (and any other Angular classes/functions if needed) that will retrieve data from backend and will display “Seconds left to deadline: X” countdown timer (X should be updated every second). Please take your time to write performance optimized code that could be then copy-pasted into some bigger Angular project.
 
@@ -35,7 +39,7 @@ Follow these steps to set up and run the project locally:
 
 1. **Clone the repository:**
      ```bash
-     git clone https://github.com/safdarzeeshan/angular-project.git
+     git clone https://github.com/safdarzeeshan/6crickets-angular
      cd angular-project
      ```
 
